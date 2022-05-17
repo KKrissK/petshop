@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: epam.progkor.petshop.PetshopApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.438 s - in epam.progkor.petshop.PetshopApplicationTests
